@@ -33,6 +33,13 @@ function App() {
       image: "https://retiba.com/wp-content/uploads/2021/04/Restaurant-Management-Software-retiba.jpg",
       techStack: ["Java", "OOP", "Swing Framework"],
       github: "https://github.com/Vijayasimha9392/Java-Restaurant-Application-Project"
+    },
+    {
+      title: "AI TravelMate – Smart Trip Planning Platform",
+      description: "Developed a modern web application that leverages Google’s Gemini AI to create personalized travel itineraries based on user preferences such as destination, travel dates, budget, and interests. The project was built using React, TypeScript, and CSS with the assistance of AI Lovable for rapid prototyping and development.",
+      image: "./src/img/img.png",
+      techStack: ["React.js", "TypeScript", "Amazon Web Services (AWS)", "AWS Amplify", "Lovable AI", "Gemini API", "Google’s Gemini AI"],
+      github: "https://github.com/Vijayasimha9392/New-portfolio"
     }
   ];
 
@@ -85,9 +92,9 @@ function App() {
             <p className="text-xl mb-6 text-gray-600 dark:text-gray-300">
               Computer Science Engineering Student
               <br />
-              Passionate about Software Engineer and AWS Cloud.
+              <b>Passionate about Software Engineer and AWS Cloud.</b>
             </p>
-            <a href='https://drive.google.com/file/d/1wD3ug43LPuMXZNPw1qIQmDGSF0Iih43K/view?usp=sharing'>
+            <a href='https://drive.google.com/file/d/11U_UjOq0vV9zyU63XKIzaFbDsDcOU5xM/view?usp=sharing'>
             <button className="bg-blue-600 text-white px-6 py-3 rounded-lg flex items-center gap-2 hover:bg-blue-700 transition-colors mx-auto md:mx-0">
               <Download className="w-5 h-5" />
               Download Resume
@@ -110,7 +117,7 @@ function App() {
           <h2 className="text-3xl font-bold text-center mb-8">About Me</h2>
           <div className="max-w-3xl mx-auto">
             <p className="text-lg mb-6">
-            I am a final-year Computer Science Engineering student with a strong passion for software development and problem-solving. I am eager to learn and explore AWS Clous and full-stack development, aiming to build efficient and intelligent solutions. With a curiosity for new technologies, I continuously strive to enhance my skills and contribute to innovative projects.
+            I am a final-year Computer Science Engineering student with a strong passion for software development and problem-solving. I am eager to learn and explore AWS Cloud and full-stack development, aiming to build efficient and intelligent solutions. With a curiosity for new technologies, I continuously strive to enhance my skills and contribute to innovative projects.
             </p>
             <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
               <div className="bg-gray-100 dark:bg-gray-700 p-6 rounded-lg">
