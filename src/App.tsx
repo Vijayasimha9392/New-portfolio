@@ -37,7 +37,7 @@ function App() {
     {
       title: "AI TravelMate – Smart Trip Planning Platform",
       description: "Developed a modern web application that leverages Google’s Gemini AI to create personalized travel itineraries based on user preferences such as destination, travel dates, budget, and interests. The project was built using React, TypeScript, and CSS with the assistance of AI Lovable for rapid prototyping and development.",
-      image: "./src/img.png",
+      image: "https://powerusers.ai/wp-content/uploads/2023/08/tripplanner-ai.webp",
       techStack: ["React.js", "TypeScript", "Amazon Web Services (AWS)", "AWS Amplify", "Lovable AI", "Gemini API", "Google’s Gemini AI"],
       github: "https://github.com/Vijayasimha9392/New-portfolio"
     }
